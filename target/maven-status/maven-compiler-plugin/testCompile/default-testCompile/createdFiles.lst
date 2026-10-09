@@ -1,0 +1,3 @@
+com/booking/BookingIntegrationTest.class
+com/booking/security/JwtServiceTest.class
+com/booking/service/ReservationServiceTest.class
